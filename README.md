@@ -1,5 +1,5 @@
 # Warbler (a Twitter_Clone)
-this is Twitter Clone app "Warbler" 
+This is a Twitter Clone app called "Warbler" 
 
 
 <!-- GETTING STARTED -->
