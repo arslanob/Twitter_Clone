@@ -20,7 +20,9 @@ To get this application running, make sure you do the following in the Terminal:
 The Warbler App is serving people to interact with the world! Users can post messages, follow other users, like other users' messages and more...
 Check out from the link below!
 
-https://omer-twitter-app.herokuapp.com/
+[Movie Loco link](https://aycetiner-twitter-clone.herokuapp.com/)
+
+
 
 ## Built With
 
